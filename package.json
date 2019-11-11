@@ -1,6 +1,6 @@
 {
   "name": "@sabzil/limit-queue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Limited size queue",
   "main": "index.js",
   "scripts": {
