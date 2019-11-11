@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+ssh://git@github.com/fxpoet/sabzil-limit-queue.git"
   },
-  "author": {
-    "name": "Kiyoung Jung",
-    "email": "im@fxpoet.com"
-  },
+  "author": "Kiyoung Jung <im@fxpoet.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fxpoet/sabzil-limit-queue/issues"
   },
-  "homepage": "https://github.com/fxpoet/sabzil-limit-queue#readme"
+  "homepage": "https://github.com/fxpoet/sabzil-limit-queue#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
