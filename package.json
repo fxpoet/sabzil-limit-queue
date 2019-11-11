@@ -1,0 +1,22 @@
+{
+  "name": "@sabzil/limit-queue",
+  "version": "1.0.0",
+  "description": "Limited size queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fxpoet/sabzil-limit-queue.git"
+  },
+  "author": {
+    "name": "Kiyoung Jung",
+    "email": "im@fxpoet.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fxpoet/sabzil-limit-queue/issues"
+  },
+  "homepage": "https://github.com/fxpoet/sabzil-limit-queue#readme"
+}
